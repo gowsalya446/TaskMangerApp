@@ -21,4 +21,5 @@ This app is about simple task manager app where we can store data, edit data and
  # About
    -I store all the api data locally ,i attach the same here
    -This application listed the completed task and pending task separately
+   -redux is not used in this project i achive the same with api state tranfer
 
