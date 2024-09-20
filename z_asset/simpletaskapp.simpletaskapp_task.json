@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "66ebf06dbdcb130ec2c0e9b5"
+  },
+  "id": 7,
+  "title": "Day7",
+  "task": "project completed",
+  "is_completed": false
+},
+{
+  "_id": {
+    "$oid": "66ec70a0bdcb130ec2c0e9be"
+  },
+  "id": 16,
+  "title": "Maths",
+  "task": "10 sum each day",
+  "is_completed": false
+},
+{
+  "_id": {
+    "$oid": "66ec70b8bdcb130ec2c0e9bf"
+  },
+  "id": 17,
+  "title": "water",
+  "task": "Drink three liters per day",
+  "is_completed": true
+},
+{
+  "_id": {
+    "$oid": "66ec711dbdcb130ec2c0e9c0"
+  },
+  "id": 18,
+  "title": "Day4",
+  "task": "project completed",
+  "is_completed": true
+},
+{
+  "_id": {
+    "$oid": "66ec715cbdcb130ec2c0e9c1"
+  },
+  "id": 19,
+  "title": "veg",
+  "task": "Eat vegetable daily",
+  "is_completed": true
+},
+{
+  "_id": {
+    "$oid": "66ec72bdbdcb130ec2c0e9c2"
+  },
+  "id": 20,
+  "title": "walking",
+  "task": "At morning 7:00",
+  "is_completed": true
+}]
