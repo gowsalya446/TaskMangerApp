@@ -14,9 +14,12 @@ This app is about simple task manager app where we can store data, edit data and
  -To start the server use the command py manage.py runserver
  # Key takeaway from backend
  -setup the python in environment variable of system
+ - To connect the mongodb use commond py manage.py makemigrations and py manage.py migrate
+  
  # Database
  -Im using mongodb for db
  -install of pymongo and djongo is important for the same
+ -upload the file in mongodb (which i placed in z_assset)
 
  # About
    -I store all the api data locally ,i attach the same here
